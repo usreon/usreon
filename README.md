@@ -1,4 +1,3 @@
-### I'm yeonju
 currently studying software engineering
 wondering why my code works
 
